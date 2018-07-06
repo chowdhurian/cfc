@@ -1,0 +1,16 @@
+{
+  "name": "code-for-canada",
+  "version": "1.0.0",
+  "description": "The number of violations in each category The earliest and latest violation date for each category",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^2.5.0",
+    "papaparse": "^4.5.0"
+  }
+}
